@@ -121,6 +121,6 @@ With the firmware active, copy to the **microSD** the recommended databases and 
 
 ## Credits
 
-Nucleus Dark
-Just Enotik
+Nucleus Dark,
+,Just Enotik
 den4ik
