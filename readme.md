@@ -1,5 +1,7 @@
 # Guide: STM32WB55CGU6 as "Flipper Zero"
 
+![Flipper Diy](Diagram/flipper%20diy.png)
+
 This repository documents, in a straightforward way, how to configure an **STM32WB55CGU6** board to function similarly to the Flipper Zero. The focus is: generating **OTP** data, writing it safely, and installing a **modified firmware** compatible with the pinout.
 
 ---
