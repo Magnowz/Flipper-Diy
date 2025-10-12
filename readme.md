@@ -1,4 +1,8 @@
-# Guide: STM32WB55CGU6 as "Flipper Zero"
+# Guide: STM32WB55CGU6 as "Flipper Zero" from Nucleus Dark
+
+This was created to help people with F*ckingCheapFlipperZero project build, and it is based on the experiences of its early adaptors community.
+
+Project github: https://github.com/GthiN89/FuckingCheapFlipperZero
 
 ![Flipper Diy](Diagram/flipper%20diy.png)
 
