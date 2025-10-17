@@ -121,6 +121,12 @@ With the firmware active, copy to the **microSD** the recommended databases and 
 
 ## Credits
 
-Nucleus Dark,
-,Just Enotik
-den4ik
+Nucleus Dark,Just Enotik,den4ik
+
+
+And the entire FuckingCheapFlipperZero discord community that is always helping, sorry if I forgot to mention anyone's name.
+
+## More information 
+
+[More information](https://github.com/GthiN89/FuckingCheapFlipperZero-DIY-Flipper-zero-The-real-on) precompiled firmwares , schematics and instructions to build your own firmware, released as open-source by Nucleus Dark.
+
