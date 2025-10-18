@@ -1,6 +1,6 @@
 # Guide: STM32WB55CGU6 as "Flipper Zero" from Nucleus Dark
 
-This was created to help people with F*ckingCheapFlipperZero project build, and it is based on the experiences of its early adaptors community.
+This was created to help people with F\*ckingCheapFlipperZero project build, and it is based on the experiences of its early adaptors community.
 
 Project github: https://github.com/GthiN89/FuckingCheapFlipperZero
 
@@ -92,6 +92,13 @@ Recommendation: remove the **microSD card** from this step to avoid error messag
 **Buttons**
 ![Diagram 5262800230573799919](Diagram/5262800230573799919.jpg)
 
+**Optional Buttons without SN74HC165N**
+
+**WARNING:** this option may cause heavy lag and slow performance!  
+For this feature use firmware `flipper-z-f7-full-mntm-momentum-75bfde09.dfu`
+
+![Diagram 5262800230573799919](Diagram/50071930068b66175.png)
+
 **Display 8 Pins**
 ![Diagram 5285134240901625405](Diagram/5285134240901625405.jpg)
 
@@ -127,10 +134,8 @@ With the firmware active, copy to the **microSD** the recommended databases and 
 
 Nucleus Dark,Just Enotik,den4ik
 
-
 And the entire FuckingCheapFlipperZero discord community that is always helping, sorry if I forgot to mention anyone's name.
 
-## More information 
+## More information
 
 [More information](https://github.com/GthiN89/FuckingCheapFlipperZero-DIY-Flipper-zero-The-real-on) precompiled firmwares , schematics and instructions to build your own firmware, released as open-source by Nucleus Dark.
-
