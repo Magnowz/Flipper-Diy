@@ -14,7 +14,7 @@ This repository documents, in a straightforward way, how to configure an **STM32
 
 **Hardware**
 
-- [STM32WB55CGU6](https://s.click.aliexpress.com/e/_ooz1OoJ)
+- [STM32WB55CGU6](https://s.click.aliexpress.com/e/_c32j6drh)
 - [CC1101](https://s.click.aliexpress.com/e/_opX4ZvH)
 - [SDCARD MODULE](https://s.click.aliexpress.com/e/_oFUjjgb)
 - **Display options**
